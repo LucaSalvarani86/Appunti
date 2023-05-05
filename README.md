@@ -1,1 +1,1 @@
-# Appunti
+# Appunti dei miei corsi di programmazione e informatica.
